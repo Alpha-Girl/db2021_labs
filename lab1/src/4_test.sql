@@ -1,0 +1,1 @@
+call re_define_book_id('00000000','00000001');
