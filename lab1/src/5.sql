@@ -1,4 +1,5 @@
 delimiter $
+drop function if exists check_status;
 create function check_status()
 Returns INT
 Reads SQL data
