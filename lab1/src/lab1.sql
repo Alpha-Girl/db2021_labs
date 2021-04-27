@@ -1,1 +1,0 @@
-select book.name,borrow.Borrow_Date,borrow.Return_Date from book,borrow,reader where reader.name='Rose';
